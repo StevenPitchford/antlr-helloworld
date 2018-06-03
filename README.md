@@ -6,5 +6,4 @@ Still formative but will build into something a tad more solid over a few commit
 
 ## Get in touch
 
-Find me on twitter: [@SteveJPitchford](https://twitter.com/~stevejpitchford @SteveJPitchford)
-a
+Find me on twitter: [@SteveJPitchford](https://twitter.com/~stevejpitchford "@SteveJPitchford")
